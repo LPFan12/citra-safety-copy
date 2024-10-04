@@ -1,1 +1,1 @@
-﻿ñ
+Citra is ded. This is one of the many safety copies to make extra, extra sure the emulator stays available. Not planned to be individually maintained as of right now, it is simply a mirror of the forked repo, potentially lagging behind the newest commits by a few hours.
